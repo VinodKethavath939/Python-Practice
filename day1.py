@@ -64,4 +64,3 @@ if day in [1,2,3,4,5]:
     print("Today is weekday")
 elif day in [6,7]:
     print("I love weekends")
-
